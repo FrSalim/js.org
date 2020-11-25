@@ -815,7 +815,7 @@ var cnames_active = {
   "facepalm": "santiagogil.github.io/facepalm",
   "facreative": "facreative.github.io",
   "fairy": "fairymeee.github.io",
-  "fallr": "faisalman.github.io/fallr-js",
+  "fallr": "faiman.github.io/fallr-js",
   "fan": "garychamberlain.github.io/fan",
   "fantas": "fantastiser.github.io",
   "farfetchd": "achannarasappa.github.io/farfetchd", // noCF? (don´t add this in a new PR)
@@ -847,6 +847,7 @@ var cnames_active = {
   "flatpickr": "flatpickr.github.io",
   "flavor": "blackmirror1980.github.io/flavor-js",
   "fld-grd": "mrksbnch.github.io/fld-grd",
+  "salim": "frsalim.github.io",
   "flexmasonry": "kavanmevada.github.io/flex_masonry", // noCF
   "flood": "flood.jesec.io", // noCF
   "flot": "flottant.github.io",
